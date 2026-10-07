@@ -1,4 +1,4 @@
-# Space Safety & Debris Collision Avoidance Platform
+# Space Safety & Debris Collision Avoidance Platform :
 
 > **College Hackathon Prototype Statement**: Developed for space safety simulation, tracking orbital debris trajectories, predicting satellite conjunctions, evaluating collision risk, and computing energy-optimal avoidance maneuvers.
 >
